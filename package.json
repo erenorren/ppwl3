@@ -1,0 +1,17 @@
+{
+  "name": "ppwl33",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.1",
+    "lite-server": "^2.6.1",
+    "tailwindcss": "^4.2.1"
+  }
+}
