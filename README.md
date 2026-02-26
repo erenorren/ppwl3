@@ -1,11 +1,11 @@
 # ppwl33
 
 ## Praktikum 2
-Perbedaan 1: Konfigurasi di v4 kini berbasis CSS menggunakan directive @theme, sedangkan v3 menggunakan file JS (tailwind.config.js).
-Perbedaan 2: v4 lebih cepat dan ringan serta tidak memerlukan setup PostCSS secara manual.
+Perbedaan 1: Konfigurasi di v4 berbasis CSS menggunakan directive @theme, v3 menggunakan file JS (tailwind.config.js).
+Perbedaan 2: v4 lebih cepat dan tidak memerlukan setup PostCSS secara manual.
 
 ## Praktikum 4
-Warna latar belakang akan memengaruhi area Content dan Padding.
+Warna latar belakang akan memengaruhi area content dan padding.
 
 ## Praktikum 7
 Defaultnya:
