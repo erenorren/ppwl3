@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+  --color-primary-custom: #10b981;
+  --color-secondary-custom: #6b7280;
+}
+
+@layer components {
+  .tab-btn {
+    @apply px-4 py-2 text-sm font-medium border-b-2 transition duration-300;
+  }
+}
